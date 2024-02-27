@@ -1,3 +1,7 @@
+<div style="background-color: lightgreen; padding: 10px;">
+    <h2> Projeto | Análise Exploratória de Dados com Python (EDA)
+</div>
+
 ### Aluno:
 André R. Kuster | nº: 1116029
 
