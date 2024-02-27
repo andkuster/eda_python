@@ -11,6 +11,9 @@ Será utilizado conjunto de dados público de vendas online, contendo informaç�
 ### Ferramentas:
 NumPy, Pandas e Git.
 
+### Link do Notebook:
+https://github.com/andkuster/eda_python/blob/main/projeto_eda_andre_kuster.ipynb
+
 ### Referências:
 - https://pandas.pydata.org/
 - https://numpy.org/doc/stable/
