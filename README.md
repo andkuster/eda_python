@@ -12,6 +12,10 @@ O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo da disc
 ### Base de Dados:
 Será utilizado conjunto de dados público de vendas online, contendo informações sobre pedidos feitos na loja Olist. O conjunto de dados inclui pedidos realizados em vários marketplaces no Brasil. Este projeto visa identificar as características da base e entender quais são as informações disponíveis.
 
+Um **esquema** do relacionamento das tabelas será apresentado abaixo, com o intuito de facilitar o entendimento do relacionamento entre as bases de dados:
+
+<img src="https://github.com/andkuster/eda_python/blob/main/olist_schema.png" width="700"/>
+
 ### Ferramentas:
 NumPy, Pandas e Git.
 
